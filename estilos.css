@@ -109,7 +109,7 @@ header nav ul li a {
   
 
 .banner{
-    background-image: url('../images/bogonocturna.jpg');
+    background-image: url('images/bogonocturna.jpg');
     background-size: cover;
     display: flex;
     align-content: center;
